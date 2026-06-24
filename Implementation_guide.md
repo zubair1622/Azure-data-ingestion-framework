@@ -58,7 +58,7 @@ input/landing/
     json/
     sql/
 
-output/bronze
+output/bronze/
     parquet/
 ```
 
